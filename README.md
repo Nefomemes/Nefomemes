@@ -18,4 +18,4 @@ So, I forked some documentation repos that have sucky CSS and hosted them myself
 ## Donation
 Like what I'm doing, and want to support me financially? 
 
-<img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_051942.png" style="height; 100">
+<img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_051942.png" style="height; 50px; width: auto;">

@@ -16,6 +16,8 @@ So, I forked some documentation repos that have sucky CSS and hosted them myself
 - [PUEBI](https://nefomemes.github.io/puebi) ([original site](https://ivanlanin.github.io/puebi))
 
 ## Donation
-Like what I'm doing, and want to support me financially? 
+Like what I'm doing, and want to support me financially? Well, I haven't got those fancy PayPal accounts but I do have e-wallets. If you live in Indonesia you should know these.
 
-<img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_051942.png" height="100px">
+### GoOay
+
+<img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_051942.png" height="400px">

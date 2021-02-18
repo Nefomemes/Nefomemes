@@ -8,7 +8,7 @@ These are cool stuffs I have worked on.
 - [WIP] [battlelog.js](https://nefomemes.github.io/battlelog.js) ([GitHub repo](https://github.com/Nefomemes/battlelog.js)) - An unofficial API for [Battlelog](battlelog.battlefield.com).
 - [betterlog-bf4](https://nefomemes.github.io/betterlog-bf4) - An enhanced fork of BF3 BetterBattlelog BF4 theme.
 - [WIP] [accounts](https://github,com/Nefomemes/accounts) - Sign in and log in to Nefomemes Network sites with a Nefomemes Network account.
-- [Discontinued] [Fortress](https://github.com/Nefomemes/Fortress) - I'm not working on it anymore but in the future I will probably make it a Discord.js framework.
+- [Discontinued] [Fortress](https://github.com/Nefomemes/Fortress) - I'm not working on it anymore but in the future I will probably make it a Discord.js framework. It have some cool tehc btw.
 
 ## Static documentations
 So, I forked some documentation repos that have sucky CSS and hosted them myself with mkdocs-material as the theme.

@@ -17,3 +17,5 @@ So, I forked some documentation repos that have sucky CSS and hosted them myself
 
 ## Donation
 Like what I'm doing, and want to support me financially? 
+
+![](https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_051942.png)

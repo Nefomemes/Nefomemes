@@ -23,4 +23,4 @@ Like what I'm doing, and want to support me financially? Well, I haven't got tho
 
 <img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_051942.png" height="300px">
 
-If for some reasons you need to use a phone number to transfer the donation. Hit me up on email (nefothingy@hotmail.com) or Discord.
+If for some reasons you need to have my phone number to transfer the donation. Hit me up on email (nefothingy@hotmail.com) or Discord.

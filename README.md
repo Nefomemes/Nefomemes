@@ -14,3 +14,6 @@ So, I forked some documentation repos that have sucky CSS and hosted them myself
 
 - [JSdoc](https://nefomemes.github.io/JSdoc) ([original site](https://jsdoc.app/))
 - [PUEBI](https://nefomemes.github.io/puebi) ([original site](https://ivanlanin.github.io/puebi))
+
+## Donation
+Like what I'm doing, and want to support me financially? 

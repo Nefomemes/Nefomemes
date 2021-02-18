@@ -5,7 +5,7 @@
 ## Projects
 These are cool stuffs I worked on.
 
-- [battlelog.js](https://nefomemes.github.io/battlelog.js) - An unofficial API for [Battlelog](battlelog.battlefield.com).
+- [battlelog.js](https://nefomemes.github.io/battlelog.js) ([GitHub repo](https://github.com/Nefomemes/battlelog.js)) - An unofficial API for [Battlelog](battlelog.battlefield.com).
 - [betterlog-bf4](https://nefomemes.github.io/betterlog-bf4) - An enhanced fork of BF3 BetterBattlelog BF4 theme.
 - [Fortress (discontinued)](https://github.com/Nefomemes/Fortress) - I'm not working on it anymore but in the future I will probably make it a Discord.js framework.
 

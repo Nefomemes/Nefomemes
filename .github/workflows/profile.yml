@@ -64,3 +64,4 @@ jobs:
           plugin_music_limit: 4                   # Limit to 4 entries
           plugin_music_playlist: https://embed.music.apple.com/gb/artist/jukka-rintam%C3%A4ki/366706356 # Use extracted playlist link
                                             #   (plugin_music_provider and plugin_music_mode will be set automatically)
+          plugin_music_provider: apple

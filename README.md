@@ -6,7 +6,7 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 
 ![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=Nefomemes)
 
-<details><summary>Click here to reveal detailed statistics</summary><a href=""><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/></a>
+<details><summary>Click here to reveal detailed statistics</summary><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/>
 </details>
 
 ## Languages 

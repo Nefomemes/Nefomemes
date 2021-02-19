@@ -24,9 +24,9 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 ## Projects
 These are cool stuffs I have worked on.
 
-[![Nefomemes/battlelog.js](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=battlelog.js)](https://github.com/Nefimemes/battlelog.js)
-- [WIP: Do NOT use] [battlelog.js](https://nefomemes.github.io/battlelog.js) ([GitHub repo](https://github.com/Nefomemes/battlelog.js)) - An unofficial API library/wrapper for [Battlelog](battlelog.battlefield.com).
-- [betterlog-bf4](https://nefomemes.github.io/betterlog-bf4) - An enhanced fork of BF3 BetterBattlelog BF4 theme.
+[![Nefomemes/battlelog.js](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=battlelog.js&theme=angolia)](https://github.com/Nefomemes/battlelog.js)
+[![Nefomemes/node-grau](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=node-grau)](https://github.com/Nefomemes/node-grau)
+[![Nefomemes/betterlog-bf4](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=betterlog-bf4)](https://github.com/Nefimemes/betterlog-bf4)
 - [WIP: Do NOT use] [accounts](https://github,com/Nefomemes/accounts) - Sign in and log in to Nefomemes Network sites with a Nefomemes Network account.
 - [Discontinued] [Fortress](https://github.com/Nefomemes/Fortress) - I'm not working on it anymore but in the future I will probably make it a Discord.js framework. It have some cool tehc btw.
 

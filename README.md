@@ -46,3 +46,8 @@ If for some reasons you need to have my phone number to transfer the donation. H
 ## Credits
 
 - Thanks BrokenHelmet for background image.
+
+## Statistics
+If you want statistics to speak about itself. Alright.
+
+![](https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg)

@@ -8,6 +8,7 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 
 <details><summary>Click here to reveal detailed statistics</summary><a href=""><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/></a>
 </details>
+
 ## Languages 
 
 - JavaScript / ECMAScript

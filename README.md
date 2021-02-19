@@ -6,6 +6,8 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 
 ![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=Nefomemes)
 
+<details><summary>Click here to reveal detailed statistics</summary><a href=""><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/></a>
+</details>
 ## Languages 
 
 - JavaScript / ECMAScript
@@ -50,9 +52,6 @@ If for some reasons you need to have my phone number to transfer the donation. H
 
 - Thanks BrokenHelmet for background image.
 
-## Statistics
-If you want statistics to speak about itself. Alright.
 
   
-<details><summary>Click here to reveal detailed statistics</summary><a href=""><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/></a>
-  </details>
+  

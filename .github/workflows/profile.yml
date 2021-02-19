@@ -19,7 +19,7 @@ jobs:
 
           # Options
           user: Nefomemes
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_animated: yes
           config_timezone: Asia/Jakarta

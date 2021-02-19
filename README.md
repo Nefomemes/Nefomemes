@@ -57,7 +57,7 @@ If for some reasons you need to have my phone number to transfer the donation. H
 
 ## Credits
 
-- Thanks BrokenHelmet for background image.
+- Thanks BrokenHelmet for the background image.
 
 </details>
   

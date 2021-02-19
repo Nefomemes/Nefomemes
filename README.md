@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_065852.png)
 
+Hi,
 ## Mah GitHub stats
 
 ![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=Nefomemes&theme=algolia)
@@ -26,3 +27,7 @@ Like what I'm doing, and want to support me financially? Well, I haven't got tho
 <img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_051942.png" height="300px">
 
 If for some reasons you need to have my phone number to transfer the donation. Hit me up on email (nefothingy@hotmail.com) or Discord.
+
+## Credits
+
+- Thanks BrokenHelmet for background image.

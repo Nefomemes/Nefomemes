@@ -3,18 +3,18 @@
 Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making stuff.  
 <details>
   <summary>Read more</summary>
-## Mah GitHub stats
+<h2>Mah GitHub stats</h2>
 
-![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=Nefomemes)
+<img alt="Mah GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nefomemes"/>
 
 <details><summary>Click here to reveal detailed statistics</summary><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/>
 </details>
 
-## Languages 
-
-- JavaScript / ECMAScript
-- Familiarity with Lua, however haven't worked on any single Lua project.
-- Some bits of Bash script, usually for workflows and stuff.
+<h2>Languages</h2>
+<ul>
+<li>JavaScript / ECMAScript</li>
+<li>Familiarity with Lua, however haven't worked on any single Lua project.</li>
+<li>Some bits of Bash script, usually for workflows and stuff.</li>
 
 ## Tools
 

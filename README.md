@@ -4,7 +4,7 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 
 ## Mah GitHub stats
 
-![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=Nefomemes&theme=algolia)
+![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=Nefomemes)
 
 ## Languages 
 

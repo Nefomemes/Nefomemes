@@ -1,7 +1,8 @@
 ![](https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_065852.png)
 
 Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making stuff.  
-
+<details>
+  <summary>Read more</summary>
 ## Mah GitHub stats
 
 ![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=Nefomemes)
@@ -54,6 +55,6 @@ If for some reasons you need to have my phone number to transfer the donation. H
 
 - Thanks BrokenHelmet for background image.
 
-
+</details>
   
   

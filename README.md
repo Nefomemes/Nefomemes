@@ -51,4 +51,6 @@ If for some reasons you need to have my phone number to transfer the donation. H
 ## Statistics
 If you want statistics to speak about itself. Alright.
 
-[![](https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg)](https://github.com/Nefomemes/Nefomemes/blob/main/github-metrics.svg)
+  
+<details><summary>Click here to reveal detailed statistics</summary><a href=""><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/></a>
+  <details/>

@@ -16,7 +16,9 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 <li>Familiarity with Lua, however haven't worked on any single Lua project.</li>
 <li>Some bits of Bash script, usually for workflows and stuff.</li>
 </ul>
-## Tools
+
+<h2> Tools</h2>
+These are tools and packages I normally use.
 
 - [VSCodium](https://vscodium.com/) - A fork of Visual Studio Code with privacy in mind.
 - [Replit](https://repl.it/) - Advertises itself as a programming learning environment and RunKit on a larger scale. Works like Glitch as well.

@@ -10,6 +10,7 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 
 - JavaScript / ECMAScript
 - Familiarity with Lua, however haven't worked on any single Lua project.
+- Some bits of Bash script, usually for workflows and stuff.
 
 ## Tools
 

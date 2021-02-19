@@ -1,9 +1,21 @@
 ![](https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_065852.png)
 
-Hi,
+Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making stuff.  
+
 ## Mah GitHub stats
 
 ![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=Nefomemes&theme=algolia)
+
+## Languages 
+
+- JavaScript / ECMAScript
+- Familiarity with Lua, however haven't worked on any single Lua project.
+
+## Tools
+
+- [VSCodium](https://vscodium.com/) - A fork of Visual Studio Code with privacy in mind.
+- [Replit] - Advertises itself as a programming learning environment and RunKit on a larger scale. Works like Glitch as well.
+- 
 
 ## Projects
 These are cool stuffs I have worked on.

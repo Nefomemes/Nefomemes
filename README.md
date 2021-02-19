@@ -27,7 +27,6 @@ These are cool stuffs I have worked on or currently working on.
 [![Nefomemes/battlelog.js](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=battlelog.js&theme=angolia)](https://github.com/Nefomemes/battlelog.js)
 [![Nefomemes/node-grau](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=node-grau)](https://github.com/Nefomemes/node-grau)
 [![Nefomemes/betterlog-bf4](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=betterlog-bf4&theme=angolia)](https://github.com/Nefomemes/betterlog-bf4)
-
 [![Nefomemes/Fortress](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=Fortress)](https://github.com/Nefomemes/Fortress)
 
 There are much more, but I haven't much announced them. Checkout my GitHub repos!

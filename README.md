@@ -28,6 +28,7 @@ These are tools, packages, softwares, and services that I understand.
 - [GitHub](https://github,com/) - Do you live under the rock?
 - [ESlint](https://eslint.org/) - Lints JS codes.
 - [MKdocs](https://mkdocs,org) - Makes documentation websites
+- [Git] - The ultimate version control.
 
 ## Projects
 These are cool stuffs I have worked on or currently working on.

@@ -55,4 +55,4 @@ If you want statistics to speak about itself. Alright.
 
   
 <details><summary>Click here to reveal detailed statistics</summary><a href=""><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/></a>
-  <details/>
+  </details>

@@ -39,7 +39,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: .user.website
-          plugin_people: yes
+          plugin_people: no
           plugin_people_limit: 28
           plugin_people_size: 28
           plugin_people_types: followers, following
@@ -48,7 +48,7 @@ jobs:
           plugin_posts_user: .user.login
           plugin_projects: no
           plugin_projects_limit: 4
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 4
           plugin_tweets: no
           plugin_tweets_limit: 2
@@ -65,3 +65,4 @@ jobs:
           plugin_music_playlist: https://embed.music.apple.com/gb/album/battlefield-4-original-soundtrack/1418709278 # Use extracted playlist link
                                             #   (plugin_music_provider and plugin_music_mode will be set automatically)
           plugin_music_provider: apple
+          

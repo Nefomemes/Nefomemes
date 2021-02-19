@@ -22,13 +22,15 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 - [ESlint](https://eslint.org/) - Lints JS codes.
 
 ## Projects
-These are cool stuffs I have worked on.
+These are cool stuffs I have worked on or currently working on.
 
 [![Nefomemes/battlelog.js](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=battlelog.js&theme=angolia)](https://github.com/Nefomemes/battlelog.js)
 [![Nefomemes/node-grau](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=node-grau)](https://github.com/Nefomemes/node-grau)
-[![Nefomemes/betterlog-bf4](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=betterlog-bf4&theme=angolia)](https://github.com/Nefimemes/betterlog-bf4)
-- [WIP: Do NOT use] [accounts](https://github,com/Nefomemes/accounts) - Sign in and log in to Nefomemes Network sites with a Nefomemes Network account.
-- [Discontinued] [Fortress](https://github.com/Nefomemes/Fortress) - I'm not working on it anymore but in the future I will probably make it a Discord.js framework. It have some cool tehc btw.
+[![Nefomemes/betterlog-bf4](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=betterlog-bf4&theme=angolia)](https://github.com/Nefomemes/betterlog-bf4)
+
+[![Nefomemes/Fortress](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=Fortress)](https://github.com/Nefomemes/Fortress)
+
+There are much more, but I haven't much announced them. Checkout my GitHub repos!
 
 ## Static documentations
 So, I forked some documentation repos that have sucky CSS and hosted them myself with mkdocs-material as the theme.

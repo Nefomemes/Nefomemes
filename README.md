@@ -14,7 +14,7 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 ## Tools
 
 - [VSCodium](https://vscodium.com/) - A fork of Visual Studio Code with privacy in mind.
-- [Replit] - Advertises itself as a programming learning environment and RunKit on a larger scale. Works like Glitch as well.
+- [Replit](https://repl.it/) - Advertises itself as a programming learning environment and RunKit on a larger scale. Works like Glitch as well.
 - 
 
 ## Projects

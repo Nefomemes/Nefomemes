@@ -23,12 +23,12 @@ These are tools, packages, softwares, and services that I understand.
 
 - [VSCodium](https://vscodium.com/) - A fork of Visual Studio Code with privacy in mind.
 - [Replit](https://repl.it/) - Advertises itself as a programming learning environment and RunKit on a larger scale. Works like Glitch as well.
-- [discord.js-docgen](https://github.com/discordjs/docgen) - With [discordjs/action-docs@v1](https://github.com/discordjs/action-docs), you can use GitHub Actions to automatically generate JSON files with all the classes, properties, methods, typedefs, etc, from JSDoc comments.
 - [Figma](https://figma.com/) - A website used to design UI/UX. I rarely use this though, not mobile friendly.
 - [GitHub](https://github,com/) - Do you live under the rock?
 - [ESlint](https://eslint.org/) - Lints JS codes.
 - [MKdocs](https://mkdocs,org) - Makes documentation websites
 - [Git](https://git-scm.com/) - The ultimate version control.
+- [JSdoc](https://jsdoc.app/) - Generate the documentation of a JS library.
 
 ## Projects
 These are cool stuffs I have worked on or currently working on.

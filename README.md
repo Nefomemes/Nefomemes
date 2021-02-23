@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/20210219_065852.png)
 
 Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making stuff.  
-<details>
+<details markdown="1">
   <summary>Read more</summary>
 <h2>Mah GitHub stats</h2>
 

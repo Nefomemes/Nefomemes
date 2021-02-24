@@ -32,7 +32,7 @@ These are tools, packages, softwares, and services that I understand.
 - [MongoDB](https://mongodb.org/) - One of the best NoSQL databases ot there.
 
 ## Projects
-These are cool stuffs I have worked on or currently working on.
+These are cool stuffs I have worked or currently working on.
 
 [![Nefomemes/battlelog.js](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=battlelog.js&theme=angolia)](https://github.com/Nefomemes/battlelog.js)
 [![Nefomemes/node-grau](https://github-readme-stats.vercel.app/api/pin/?username=Nefomemes&repo=node-grau)](https://github.com/Nefomemes/node-grau)

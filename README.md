@@ -25,7 +25,7 @@ These are tools, packages, softwares, and services that I understand.
 - [Replit](https://repl.it/) - Advertises itself as a programming learning environment and RunKit on a larger scale. Works like Glitch as well.
 - [Glitch](https://glitch.com) - Like Replit, but more dedicated to Node.js, it's pricing sucks, and how it will reload your Node process when a file have been changed is sucks, even with the `watch.json` config file. I rarely uses it, but dank, it have better UI/UX than Replit.
 - [Figma](https://figma.com/) - A website used to design UI/UX. I rarely use this though, not mobile friendly.
-- [GitHub](https://github,com/) - Do you live under the rock?
+- [GitHub](https://github.com/) - Do you live under the rock?
 - [ESlint](https://eslint.org/) - Lints JS codes.
 - [MKdocs](https://mkdocs,org) - Makes documentation websites
 - [Git](https://git-scm.com/) - The ultimate version control.

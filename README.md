@@ -17,10 +17,9 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 <h2>Tehcs I understand</h2>
 These are tools, packages, softwares, and services that I use.
 
-<br/> <br/>
+<br/> 
 
-![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![Replit](https://img.shields.io/badge/-Replit-black?logo=Repl.it&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![Replit](https://img.shields.io/badge/-Replit-black?logo=Repl.it&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white)
 ## Projects
 These are cool stuffs I have worked or currently working on.
 

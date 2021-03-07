@@ -7,12 +7,6 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 
 <img alt="Mah GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Nefomemes"/>
 
-Also you can check my 2020 GitHub Skyline [here](https://skyline.github.com/nefomemes/2020).
-
-<br/>
-<details><summary>Click here to reveal detailed statistics</summary><img src="https://raw.githubusercontent.com/Nefomemes/Nefomemes/main/github-metrics.svg"/>
-</details>
-
 <h2>Languages</h2>
 <ul>
 <li>JavaScript / ECMAScript</li>

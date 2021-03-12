@@ -9,6 +9,7 @@ Hi, my name is Nefomemes. I'm a hobbyist junior web developer that loves making 
 
 <h2>Languages</h2>
 <ul>
+ <li>HTML & CSS</li>
 <li>JavaScript / ECMAScript</li>
 <li>Familiarity with Lua, however haven't worked on any single Lua project.</li>
 <li>Some bits of Bash script, usually for workflows and stuff.</li>

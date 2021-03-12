@@ -21,8 +21,8 @@ These are tools, packages, softwares, and services that I use.
 
 
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white) ![Replit](https://img.shields.io/badge/-Replit-black?logo=Repl.it&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white)
-![Git](https:/img.shields.io/badge/-Git-black?logo=Git&logoFolor=white)
-
+![Git](https://img.shields.io/badge/-Git-black?logo=Git&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-black?logo=Vur&logoColor=white)
 ## Projects
 These are cool stuffs I have worked or currently working on.
 
